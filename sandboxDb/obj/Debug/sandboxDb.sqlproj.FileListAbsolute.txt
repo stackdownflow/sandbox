@@ -1,0 +1,6 @@
+C:\Users\ajite\source\repos\sandbox\sandbox\sandboxDb\bin\Debug\sandboxDb.dacpac
+C:\Users\ajite\source\repos\sandbox\sandbox\sandboxDb\bin\Debug\sandboxDb.dll
+C:\Users\ajite\source\repos\sandbox\sandbox\sandboxDb\bin\Debug\sandboxDb.pdb
+C:\Users\ajite\source\repos\sandbox\sandbox\sandboxDb\obj\Debug\sandboxDb.sqlproj.AssemblyReference.cache
+C:\Users\ajite\source\repos\sandbox\sandbox\sandboxDb\obj\Debug\sandboxDb.dll
+C:\Users\ajite\source\repos\sandbox\sandbox\sandboxDb\obj\Debug\sandboxDb.pdb

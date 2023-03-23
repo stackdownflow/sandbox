@@ -1,0 +1,88 @@
+21-03-23 01:12:44 AM	This log contains information about the import schema operation into project 'sandboxDb' on computer 'DESKTOP-T4UH0RB' by user 'ajitesh'.
+21-03-23 01:12:44 AM	Import of database schema has started.
+21-03-23 01:12:56 AM	Gathering database credentials
+21-03-23 01:12:56 AM	Gathering database options
+21-03-23 01:12:56 AM	Gathering generic database scoped configuration option
+21-03-23 01:12:56 AM	Gathering users
+21-03-23 01:12:56 AM	Gathering roles
+21-03-23 01:12:56 AM	Gathering application roles
+21-03-23 01:12:56 AM	Gathering role memberships
+21-03-23 01:12:56 AM	Gathering filegroups
+21-03-23 01:12:56 AM	Gathering full-text catalogs
+21-03-23 01:12:56 AM	Gathering assemblies
+21-03-23 01:12:56 AM	Gathering certificates
+21-03-23 01:12:56 AM	Gathering asymmetric keys
+21-03-23 01:12:56 AM	Gathering symmetric keys
+21-03-23 01:12:56 AM	Gathering encrypted symmetric keys
+21-03-23 01:12:56 AM	Gathering schemas
+21-03-23 01:12:56 AM	Gathering XML schema collections
+21-03-23 01:12:56 AM	Gathering user-defined data types
+21-03-23 01:12:56 AM	Gathering user-defined types
+21-03-23 01:12:56 AM	Gathering table types
+21-03-23 01:12:56 AM	Gathering unique keys for table types
+21-03-23 01:12:56 AM	Gathering primary keys for table types
+21-03-23 01:12:57 AM	Gathering indexes for table types
+21-03-23 01:12:57 AM	Gathering check constraints for table types
+21-03-23 01:12:57 AM	Gathering default constraints for table types
+21-03-23 01:12:57 AM	Gathering partition functions
+21-03-23 01:12:57 AM	Gathering partition schemes
+21-03-23 01:12:57 AM	Gathering functions
+21-03-23 01:12:57 AM	Gathering encrypted functions
+21-03-23 01:12:57 AM	Gathering aggregates
+21-03-23 01:12:57 AM	Gathering procedures
+21-03-23 01:12:57 AM	Gathering encrypted procedures
+21-03-23 01:12:57 AM	Gathering tables
+21-03-23 01:13:51 AM	Gathering primary keys
+21-03-23 01:13:51 AM	Gathering unique constraints
+21-03-23 01:13:51 AM	Gathering foreign keys
+21-03-23 01:13:51 AM	Gathering default constraints
+21-03-23 01:13:51 AM	Gathering check constraints
+21-03-23 01:13:51 AM	Gathering views
+21-03-23 01:13:51 AM	Gathering encrypted views
+21-03-23 01:13:51 AM	Gathering indexes
+21-03-23 01:13:51 AM	Gathering statistics
+21-03-23 01:13:51 AM	Gathering full-text index stoplists
+21-03-23 01:13:51 AM	Gathering search property lists
+21-03-23 01:13:51 AM	Gathering search properties
+21-03-23 01:13:51 AM	Gathering full-text indexes
+21-03-23 01:13:51 AM	Gathering column store indexes
+21-03-23 01:13:51 AM	Gathering spatial indexes
+21-03-23 01:13:51 AM	Gathering XML indexes
+21-03-23 01:13:51 AM	Gathering Selective XML indexes
+21-03-23 01:13:51 AM	Gathering encrypted triggers
+21-03-23 01:13:51 AM	Gathering triggers
+21-03-23 01:13:51 AM	Gathering encrypted and clr ddl triggers
+21-03-23 01:13:51 AM	Gathering ddl triggers
+21-03-23 01:13:51 AM	Creating edge constraints
+21-03-23 01:13:51 AM	Gathering synonyms
+21-03-23 01:13:51 AM	Gathering defaults
+21-03-23 01:13:51 AM	Gathering data constraint uddt bindings
+21-03-23 01:13:51 AM	Gathering rules
+21-03-23 01:13:51 AM	Gathering data constraint uddt bindings
+21-03-23 01:13:51 AM	Gathering message types
+21-03-23 01:13:51 AM	Gathering queues
+21-03-23 01:13:51 AM	Gathering contracts
+21-03-23 01:13:51 AM	Gathering services
+21-03-23 01:13:51 AM	Gathering event notifications
+21-03-23 01:13:51 AM	Gathering remote service bindings
+21-03-23 01:13:51 AM	Gathering broker priorities
+21-03-23 01:13:51 AM	Gathering signatures
+21-03-23 01:13:51 AM	Gathering compression options
+21-03-23 01:13:51 AM	Gathering sequence types
+21-03-23 01:13:51 AM	Gathering security policies
+21-03-23 01:13:51 AM	Gather column encryption keys
+21-03-23 01:13:51 AM	Gathering column master keys
+21-03-23 01:13:51 AM	Gathering external data sources
+21-03-23 01:13:51 AM	Gathering external file formats
+21-03-23 01:13:51 AM	Gathering external tables
+21-03-23 01:13:51 AM	Gathering XML index compression options
+21-03-23 01:13:51 AM	Gathering extended properties
+21-03-23 01:13:52 AM	Gathering assemblies
+21-03-23 01:13:53 AM	Gathering credentials
+21-03-23 01:13:53 AM	Gathering logins
+21-03-23 01:13:53 AM	Gathering server audits
+21-03-23 01:13:53 AM	Scanning project for duplicate elements
+21-03-23 01:13:53 AM	Finished duplicate element processing
+21-03-23 01:13:53 AM	Finished importing database.
+21-03-23 01:13:53 AM	A summary of the import was saved to the following location: C:\Users\ajite\source\repos\sandbox\sandbox\sandboxDb\Import Schema Logs\sandboxDb_20230320074244.log
+21-03-23 01:13:54 AM	Click Finish to continue...
